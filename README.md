@@ -1,2 +1,2 @@
-# LetoDau-Reposi
-Repository hodi tau palnu project iha fututru
+# LetoDau-Reposy
+Repository hodi tau palnu project iha Fututru
